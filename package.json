@@ -1,0 +1,25 @@
+{
+  "name": "matrix-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteMatrixTech/matrix-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhiteMatrixTech/matrix-blog/issues"
+  },
+  "homepage": "https://github.com/WhiteMatrixTech/matrix-blog#readme",
+  "dependencies": {
+    "@giuseppecampanelli/medium-api": "^1.0.0",
+    "axios": "^0.24.0",
+    "html-to-text": "^8.1.0"
+  }
+}
